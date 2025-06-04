@@ -28,7 +28,12 @@ I'm Divine Jigu, a student at Brigham Young University-Idaho interested in Softw
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/> 
-</div> 
+</div>
+
+## List of Projects
+- [Web Development](https://github.com/DivineProjects/wdd230)
+- [Python Data Analysis](https://github.com/DivineProjects/DataAnalysis)
+- [Nodejs Web Service](https://github.com/DivineProjects/cse341-final-project)
 
 ## Let's Connect!
 
