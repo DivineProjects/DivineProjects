@@ -31,6 +31,8 @@ I'm Divine Jigu, a student at Brigham Young University-Idaho interested in Softw
 </div>
 
 ## List of Projects
+#### NodeJs
+- [Car Sales Github](https://github.com/DivineProjects/NJSCarSales) [View Car Sales Webservice](https://njscarsales.onrender.com)
 - [Web Development](https://github.com/DivineProjects/wdd230)
 - [Python Data Analysis](https://github.com/DivineProjects/DataAnalysis)
 - [Nodejs Web Service](https://github.com/DivineProjects/cse341-final-project)
