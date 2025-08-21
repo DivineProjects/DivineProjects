@@ -32,7 +32,10 @@ I'm Divine Jigu, a student at Brigham Young University-Idaho interested in Softw
 
 ## List of Projects
 #### NodeJs
-- [Car Sales Github](https://github.com/DivineProjects/NJSCarSales) [View Car Sales Webservice](https://njscarsales.onrender.com)
+1. Car Sales App [View Car Sales Github](https://github.com/DivineProjects/NJSCarSales) [View Live Car Sales Webservice](https://njscarsales.onrender.com)
+  - Nodejs, Express, Postgre project hosted on Render.com. PGAdmin to create and update databases.
+  - Focuses on constructing dynamic web sites using server-side languages, making use of databases and design patterns.
+  
 - [Web Development](https://github.com/DivineProjects/wdd230)
 - [Python Data Analysis](https://github.com/DivineProjects/DataAnalysis)
 - [Nodejs Web Service](https://github.com/DivineProjects/cse341-final-project)
