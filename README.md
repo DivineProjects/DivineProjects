@@ -1,4 +1,3 @@
-
 # Divine Jigu
 
 Hello, GitHub! 👋
@@ -32,16 +31,16 @@ I'm Divine Jigu, a student at Brigham Young University-Idaho interested in Softw
 
 ## List of Projects
 #### NodeJs
-1. Car Sales App [View Car Sales Github](https://github.com/DivineProjects/NJSCarSales) [View Live Car Sales Webservice](https://njscarsales.onrender.com)
+1. Car Sales App <a href="https://github.com/DivineProjects/NJSCarSales" target="_blank" rel="noopener noreferrer">View Car Sales Github</a> | <a href="https://njscarsales.onrender.com" target="_blank" rel="noopener noreferrer">View Live Car Sales Webservice</a>
   - Nodejs, Express, Postgre project hosted on Render.com. PGAdmin to create and update databases.
   - Focuses on constructing dynamic web sites using server-side languages, making use of databases and design patterns.
   
-- [Web Development](https://github.com/DivineProjects/wdd230)
-- [Python Data Analysis](https://github.com/DivineProjects/DataAnalysis)
-- [Nodejs Web Service](https://github.com/DivineProjects/cse341-final-project)
+- <a href="https://github.com/DivineProjects/wdd230" target="_blank" rel="noopener noreferrer">Web Development</a>  
+- <a href="https://github.com/DivineProjects/DataAnalysis" target="_blank" rel="noopener noreferrer">Python Data Analysis</a>  
+- <a href="https://github.com/DivineProjects/cse341-final-project" target="_blank" rel="noopener noreferrer">Nodejs Web Service</a>  
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](www.linkedin.com/in/jigudivine) profile
+- Here is my <a href="https://www.linkedin.com/in/jigudivine" target="_blank" rel="noopener noreferrer">LinkedIn</a> profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
