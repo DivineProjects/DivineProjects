@@ -36,7 +36,7 @@ I'm Divine Jigu, a student at Brigham Young University-Idaho interested in Softw
     - Focuses on constructing dynamic web sites using server-side languages, making use of databases and design patterns.
     - Project performs Create, Retrieve, Update, and Delete (CRUD) operations with validation and error handling
     
-2. Student Management API <a href="https://student-management-api-av3r.onrender.com/" target="_blank" rel="noopener noreferrer"> Visit Live API</a> | <a href="https://github.com/DivineProjects/cse341-final-project/" target="_blank" rel="noopener noreferrer" >Visit Github Repo</a>
+2. Student Management API <a href="https://github.com/DivineProjects/cse341-final-project/" target="_blank" rel="noopener noreferrer" >Visit Github Repo</a> | <a href="https://cse341-project-zaay.onrender.com/api-docs/" target="_blank" rel="noopener noreferrer"> Visit Live API</a>
    - This project is a _Node.js API _for storing and retrieving information about student.
    - These information is stored in a _MongoDB_ database and all interaction will happen through the API. There is no frontend for this project, instead we created the API that could be used by any frontend in the future. API Documentation using _Swagger_ is professional, comprehensive, relevant, and accurate and allows API testing.
    - API routes perform Create, Retrieve, Update, and Delete (CRUD) operations with validation and error handling
