@@ -49,7 +49,8 @@ I'm Divine Jigu, a student at Brigham Young University-Idaho interested in Softw
 -  [Dynamic Web Fundermentals](https://divineprojects.github.io/wdd131/) | <a href="https://github.com/DivineProjects/wdd131" target="_blank" rel="noopener noreferrer">Web Fundermentals Github</a>  
 - <a href="https://divineprojects.github.io/wdd230" target="_blank" rel="noopener noreferrer">Chamber of Commerce</a> | <a href="https://github.com/DivineProjects/wdd230" target="_blank" rel="noopener noreferrer">Chamber of Commerce Github</a>  
 - <a href="https://github.com/DivineProjects/DataAnalysis" target="_blank" rel="noopener noreferrer">Python Data Analysis</a>  
-- <a href="https://github.com/DivineProjects/cse341-final-project" target="_blank" rel="noopener noreferrer">Nodejs Web Service</a>  
+- <a href="https://github.com/DivineProjects/cse341-final-project" target="_blank" rel="noopener noreferrer">Nodejs Web Service</a>
+- [Blazor Project](mslearn-blazor-navigation)
 
 ## Let's Connect!
 
